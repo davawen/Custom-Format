@@ -1,0 +1,6 @@
+key: "\"value\"";
+num: 0;
+object:
+	myValue: 12;
+	otherValue: 2;
+	yee: \\;
